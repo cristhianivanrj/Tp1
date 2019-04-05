@@ -1,0 +1,26 @@
+package entidades;
+
+public abstract class Artista {
+	
+	String nome;
+	String nacionalidade;
+	
+	public Artista(){
+		
+	}
+	
+	public Artista(String nome){
+		super();
+		this.nome =nome;
+	}
+	
+	
+	public Artista(String nome, String nacionalidade) {
+		super();
+		this.nome = nome;
+		this.nacionalidade = nacionalidade;
+	}
+	
+	
+
+}

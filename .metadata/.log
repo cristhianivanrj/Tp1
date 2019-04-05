@@ -1,0 +1,291 @@
+!SESSION 2019-04-04 09:08:10.259 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_CO
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2019-04-04 09:08:28.613
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2019-04-04 09:08:32.474
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2019-04-04 09:08:32.474
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-04-04 09:08:32.474
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-04-04 09:08:32.474
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-04-04 09:08:32.474
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2019-04-04 09:08:32.474
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2019-04-04 09:08:32.474
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2019-04-04 09:08:32.474
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2019-04-04 09:08:32.474
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 09:08:32.474
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 09:08:32.474
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 09:08:32.474
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 09:08:32.474
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 09:08:32.474
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 09:08:32.474
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 09:08:32.474
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 09:08:32.474
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2019-04-04 09:08:32.474
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2019-04-04 09:08:32.474
+!MESSAGE OK
+!SESSION 2019-04-04 10:20:28.570 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_CO
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2019-04-04 10:20:43.347
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2019-04-04 10:20:47.378
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2019-04-04 10:20:47.378
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-04-04 10:20:47.378
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-04-04 10:20:47.378
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-04-04 10:20:47.378
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2019-04-04 10:20:47.379
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2019-04-04 10:20:47.379
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2019-04-04 10:20:47.379
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2019-04-04 10:20:47.379
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 10:20:47.379
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 10:20:47.379
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 10:20:47.379
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 10:20:47.379
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 10:20:47.379
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 10:20:47.379
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 10:20:47.379
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 10:20:47.379
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2019-04-04 10:20:47.379
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2019-04-04 10:20:47.379
+!MESSAGE OK
+!SESSION 2019-04-04 13:09:31.287 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_CO
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2019-04-04 13:09:49.337
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2019-04-04 13:09:51.709
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2019-04-04 13:09:51.709
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-04-04 13:09:51.709
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-04-04 13:09:51.709
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-04-04 13:09:51.709
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2019-04-04 13:09:51.709
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2019-04-04 13:09:51.709
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2019-04-04 13:09:51.709
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2019-04-04 13:09:51.709
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 13:09:51.709
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 13:09:51.709
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 13:09:51.709
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 13:09:51.709
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 13:09:51.709
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 13:09:51.709
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 13:09:51.709
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 13:09:51.709
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2019-04-04 13:09:51.709
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2019-04-04 13:09:51.709
+!MESSAGE OK
+!SESSION 2019-04-04 21:09:13.660 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_CO
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2019-04-04 21:09:24.042
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2019-04-04 21:09:27.897
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2019-04-04 21:09:27.897
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-04-04 21:09:27.897
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-04-04 21:09:27.897
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-04-04 21:09:27.897
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2019-04-04 21:09:27.897
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2019-04-04 21:09:27.897
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2019-04-04 21:09:27.897
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2019-04-04 21:09:27.897
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 21:09:27.897
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 21:09:27.897
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 21:09:27.897
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 21:09:27.897
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 21:09:27.898
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 21:09:27.898
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 21:09:27.898
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-04 21:09:27.898
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2019-04-04 21:09:27.898
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2019-04-04 21:09:27.898
+!MESSAGE OK
+
+!ENTRY org.eclipse.ui.browser 2 0 2019-04-04 21:55:14.589
+!MESSAGE Internal browser is not available: No more handles [Unknown Mozilla path (MOZILLA_FIVE_HOME not set)]
+!SESSION 2019-04-05 10:49:00.131 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_CO
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2019-04-05 10:49:15.329
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2019-04-05 10:49:17.991
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2019-04-05 10:49:17.992
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-04-05 10:49:17.992
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-04-05 10:49:17.992
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-04-05 10:49:17.992
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2019-04-05 10:49:17.992
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2019-04-05 10:49:17.992
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2019-04-05 10:49:17.992
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2019-04-05 10:49:17.992
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-05 10:49:17.992
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-05 10:49:17.992
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-05 10:49:17.992
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-05 10:49:17.992
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-05 10:49:17.992
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-05 10:49:17.992
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-05 10:49:17.992
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-05 10:49:17.992
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2019-04-05 10:49:17.992
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2019-04-05 10:49:17.992
+!MESSAGE OK
+!SESSION 2019-04-05 11:04:32.360 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_CO
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2019-04-05 11:04:37.186
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2019-04-05 11:04:38.071
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2019-04-05 11:04:38.071
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-04-05 11:04:38.071
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-04-05 11:04:38.071
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2019-04-05 11:04:38.071
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2019-04-05 11:04:38.071
+!MESSAGE Unable to restore perspective: Workspace - Java.
+!SUBENTRY 2 org.eclipse.ui 0 0 2019-04-05 11:04:38.071
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2019-04-05 11:04:38.072
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2019-04-05 11:04:38.072
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-05 11:04:38.072
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-05 11:04:38.072
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-05 11:04:38.072
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-05 11:04:38.072
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-05 11:04:38.072
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-05 11:04:38.072
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-05 11:04:38.072
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2019-04-05 11:04:38.072
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2019-04-05 11:04:38.072
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2019-04-05 11:04:38.072
+!MESSAGE OK

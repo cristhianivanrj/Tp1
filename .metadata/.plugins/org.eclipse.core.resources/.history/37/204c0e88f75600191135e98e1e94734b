@@ -1,0 +1,45 @@
+package entidades;
+import java.util.ArrayList;
+import java.util.List;
+public class Interpretes extends Interprete {
+
+private List<Interprete> interpretes = new ArrayList<Interprete>();
+
+public void inserirInterprete(Interprete interprete){
+	this.interpretes.add(interprete);
+}
+
+public void inserirListaInterprete(List<Interprete> interpretes){
+	this.interpretes.addAll(interpretes);
+}
+
+public List<Interprete> getInterpretes(){
+	return interpretes;
+}
+
+
+
+
+@Override
+public List<Artista> buscaPorNome(String nome) {
+	
+	
+	return super.buscaPorNome(nome);
+}
+
+@Override
+public List<Artista> buscaPorNacionalidade(String nacionalidade) {
+	
+	
+	
+	return super.buscaPorNacionalidade(nacionalidade);
+}
+
+@Override
+public String toString() {
+	return "Interpretes [interpretes=" + interpretes + "]";
+}
+
+
+
+}

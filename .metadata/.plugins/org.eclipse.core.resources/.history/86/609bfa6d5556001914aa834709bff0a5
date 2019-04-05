@@ -1,0 +1,25 @@
+package entidades;
+
+public class Album {
+	private String  nome;
+	private String duracao;
+	private int ano;
+	
+	public Album(){		
+	}
+	
+	public Album(String nome){
+		this.nome = nome;
+	}
+	
+	public Album(String nome, String duracao){
+		this.nome= nome;
+		this.duracao =duracao;
+	}
+	
+	public Album(String nome, String duracao, int ano){
+		this.nome =nome;
+		this.duracao= duracao;
+		this.ano = ano;
+	}
+}

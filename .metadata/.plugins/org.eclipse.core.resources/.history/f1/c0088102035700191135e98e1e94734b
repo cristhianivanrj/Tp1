@@ -1,0 +1,93 @@
+package entidades;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Comparator;
+
+public class Autores extends Autor{
+	
+	protected List<Autor> autores = new ArrayList<>();
+	
+	public void inserirAutor(Autor autor){
+		this.autores.add(autor);
+	}
+	
+	
+	public void inserirListaAutor(List<Autor> autores){
+		this.autores.addAll(autores);
+	}
+
+	public List<Autor> getAutores() {
+		return autores;
+	}
+			
+	
+	public List<Artista> buscaPorNome(String nome){
+		List<Artista> artistasBusca = new ArrayList<Artista>();
+
+		for(Autor autor: this.autores) {
+			if(autor.getNome() == nome) {
+				artistasBusca.add(autor);
+			}
+		}		
+		return artistasBusca;
+	}
+	
+	public List<Artista> buscaPorNacionalidade(String nacionalidade){
+		List<Artista> artistaBusca = new ArrayList <Artista>();
+		
+		for(Autor autor: this.autores){
+			if(autor.getNacionalidade() == nacionalidade){
+				artistaBusca.add(autor);
+			}
+		}
+		return artistaBusca;		
+	}
+	
+	
+	
+	
+//	
+//	  public int compareTo(Autor o) {
+//	        Autores autores = (Autores)o; 
+//	        
+//	        
+//	        if(this.autores.co)
+//	        if(this.apellidos.compareToIgnoreCase(persona.apellidos) == 0)
+//	        	{            
+//	            if(this.nombre.compareToIgnoreCase(persona.nombre) == 0) {
+//	                return this.dni.compareTo(persona.dni);
+//	            } else {
+//	   
+//	            return
+//	this.nombre.compareToIgnoreCase(persona.nombre);
+//	            }
+//	        } else {
+//	            return this.apellidos.compareToIgnoreCase(persona.apellidos);
+//	        }        
+//	        
+//	    }
+//	}
+	
+	
+	
+	
+	
+//	Collections.sort(lista, new Comparator<TuObjeto>() {
+//		   public int compare(TuObjeto obj1, TuObjeto obj2) {
+//		      return obj1.getNombre().compareTo(obj2.getNombre());
+//		   }
+//		});
+//	
+	
+	
+	
+
+	@Override
+	public String toString() {
+		return "Autores [autores=" + autores + "]";
+	}
+
+
+
+}

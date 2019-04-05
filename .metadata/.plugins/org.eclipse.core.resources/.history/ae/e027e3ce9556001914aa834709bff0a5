@@ -1,0 +1,64 @@
+package entidades;
+
+
+import Autor;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Autores extends Autor{
+	
+	private List<Autor> autores = new ArrayList<>();
+	
+	public void inserirAutor(Autor autor){
+		this.autores.add(autor);
+	}
+	
+	public void inserirListaAutor(List<Autor> autores){
+		this.autores.addAll(autores);
+	}
+
+	public List<Autor> getAutores() {
+		return autores;
+	}
+	
+	
+	public List<Autor> buscaPorNome(String nome){
+		List<Autor> autorBusca = new ArrayList<Autor>();
+		
+		for(Autor autor: this.autores) {
+			if(autor.getNome() == nome){
+				
+				
+			}
+					artista.getNacionalidade() == nacionalidade) {
+				artistasBusca.add(artista);
+			}
+		}
+		
+		return artistasBusca;
+	}
+	
+	
+	public List<Artista> buscaPorNacionalidade(String nacionalidade){
+		List<Artista> artistasBusca = new ArrayList<Artista>();
+		
+		for(Artista artista: this.artistas) {
+			if(artista.getNacionalidade() == nacionalidade) {
+				artistasBusca.add(artista);
+			}
+		}
+		
+		return artistasBusca;
+	}
+	
+	
+
+	@Override
+	public String toString() {
+		return "Autores [autores=" + autores + "]";
+	}
+
+
+
+}

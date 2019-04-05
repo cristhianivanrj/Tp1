@@ -1,0 +1,13 @@
+package entidades;
+
+public class Interprete extends Artista{
+	private  boolean adaptacao;
+	
+	public Interprete(){	
+	}
+	
+	public Interprete (String nome, String nacionalidade, boolean adaptacao){
+		
+	}
+
+}

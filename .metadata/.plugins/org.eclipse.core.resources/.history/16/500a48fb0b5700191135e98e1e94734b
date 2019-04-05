@@ -1,0 +1,47 @@
+package entidades;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Autor extends Artista{
+	
+	protected int anoCriacao;
+	//private List<Autor> autores = new ArrayList<Autor>();
+	
+
+	public Autor(){
+		
+	}
+	public Autor(String nome, int anoCriacao){
+		super(nome);
+		this.anoCriacao =anoCriacao;		
+	}
+	
+	public Autor(String nome, String nacionalidade, int anoCriacao) {
+		super(nome, nacionalidade);
+		this.anoCriacao =anoCriacao;
+	}	
+	
+	public void setAnoCriacao(int anoCriacao){
+		this.anoCriacao = anoCriacao;		
+	}
+
+	public int getAnoCriacao(){
+		return anoCriacao;
+	}
+	
+
+	
+    @Override
+    public int compareTo(Artista OutroAutores) {
+    	return nome.compareTo(OutroAutores.getNome());    	
+    }
+			
+	
+	
+
+	public String toString() {
+		
+		return super.toString() +"Autor [anoCriacao ="+ anoCriacao + "]";
+	}		
+}
