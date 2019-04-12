@@ -1,0 +1,46 @@
+package main;
+
+public class UsandoExcecoes {
+
+	public static void main(String[] args) {
+		try
+		{
+			System.out.println("1. Bloco try");
+			lancarExcecoes();			
+		}
+		catch  (Exception excecao ){
+			System.err.println ("Excecoes em main ");
+		}
+		NaoLancaExcecoes();
+		
+	}
+	
+	public static void lancarExcecoes () throws Exception{
+		 try {
+			 System.out.println("2. Método lança exceções");
+			 throw new Exception();
+		 	}
+		 catch (Exception excecao){
+			 System.err.println("3. Exceções tratadas no método lancarExcecoes" );
+			 throw excecao; // Relançando exceções  
+		 }
+		 finally {
+			 System.out.println ("4. finally executado en lancarExcecoes");
+		 }		 		
+	}
+	
+public static void NaoLancaExcecoes(){
+	try{
+		System.out.println ("Método não lança exceções");	
+	}
+	catch (Exception excecao){
+		System.out.println (excecao);
+	}
+	
+	finally {
+		System.err.println ("Finally executado em NaoLancaExcecoes ");
+	}
+	System.out.println("fin de método NaoLancaExcecoes  ");
+}
+	
+}

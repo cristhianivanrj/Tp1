@@ -1,0 +1,9 @@
+package exemplo15;
+
+@SuppressWarnings("serial")
+public class EscreverDadosException extends AcessoDadosException {
+
+    public EscreverDadosException(String mensaje) {
+        super(mensaje);
+    }    
+}

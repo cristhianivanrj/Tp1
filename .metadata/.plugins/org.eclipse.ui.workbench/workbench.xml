@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="34" version="2.0">
+<workbench progressCount="35" version="2.0">
 <workbenchAdvisor/>
 <window height="772" maximized="true" width="1026" x="0" y="0">
 <fastViewData fastViewLocation="1024"/>
-<intro standby="true"/>
 <perspectiveBar>
 <itemSize x="160"/>
 </perspectiveBar>
@@ -32,24 +31,43 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Sistema.java" partName="Sistema.java" path="/home/cristhian/workspacetp1/Exemplo 4/src/negocio/Sistema.java" title="Sistema.java" tooltip="Exemplo 4/src/negocio/Sistema.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Exemplo 4/src/negocio/Sistema.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3013" selectionTopPixel="645"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AcessoDados.java" partName="AcessoDados.java" path="/home/cristhian/workspacetp1/exemplo 10/src/entidades/AcessoDados.java" title="AcessoDados.java" tooltip="exemplo 10/src/entidades/AcessoDados.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/exemplo 10/src/entidades/AcessoDados.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="11" selectionOffset="216" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AcessoDadosException.java" partName="AcessoDadosException.java" path="/home/cristhian/workspacetp1/exemplo 10/src/entidades/AcessoDadosException.java" title="AcessoDadosException.java" tooltip="exemplo 10/src/entidades/AcessoDadosException.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/exemplo 10/src/entidades/AcessoDadosException.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="9" selectionOffset="91" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EscreverDadosException.java" partName="EscreverDadosException.java" path="/home/cristhian/workspacetp1/exemplo 10/src/entidades/EscreverDadosException.java" title="EscreverDadosException.java" tooltip="exemplo 10/src/entidades/EscreverDadosException.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/exemplo 10/src/entidades/EscreverDadosException.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="16" selectionOffset="67" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ImplementacaoMySql.java" partName="ImplementacaoMySql.java" path="/home/cristhian/workspacetp1/exemplo 10/src/entidades/ImplementacaoMySql.java" title="ImplementacaoMySql.java" tooltip="exemplo 10/src/entidades/ImplementacaoMySql.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/exemplo 10/src/entidades/ImplementacaoMySql.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="11" selectionOffset="150" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LerDadosException.java" partName="LerDadosException.java" path="/home/cristhian/workspacetp1/exemplo 10/src/entidades/LerDadosException.java" title="LerDadosException.java" tooltip="exemplo 10/src/entidades/LerDadosException.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/exemplo 10/src/entidades/LerDadosException.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="20" selectionOffset="87" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ManejoExcecoes1.java" partName="ManejoExcecoes1.java" path="/home/cristhian/workspacetp1/exemplo 10/src/main/ManejoExcecoes1.java" title="ManejoExcecoes1.java" tooltip="exemplo 10/src/main/ManejoExcecoes1.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/exemplo 10/src/main/ManejoExcecoes1.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1831" selectionTopPixel="398"/>
 </editor>
 </editors>
 <views>
 <view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc">
 <viewState/>
-</view>
-<view id="org.eclipse.ui.internal.introview" partName="Welcome">
-<viewState>
-<presentation currentPage="root" restore="true"/>
-<standbyPart/>
-</viewState>
 </view>
 <view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
 <viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="">
@@ -130,7 +148,7 @@
 <viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.cdt.ui.cview.groupincludes="false" org.eclipse.cdt.ui.cview.groupmacros="false" org.eclipse.cdt.ui.editor.CUChildren="true" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
 </view>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -269,13 +287,16 @@
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
 <hide_toolbar_item_id id="org.eclipse.debug.ui.commands.RunToLine"/>
 <hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
-<view id="org.eclipse.ui.views.ProblemView"/>
-<view id="org.eclipse.jdt.ui.JavadocView"/>
-<view id="org.eclipse.jdt.ui.SourceView"/>
-<view id="org.eclipse.ui.console.ConsoleView"/>
 <view id="org.eclipse.jdt.ui.PackageExplorer"/>
-<view id="org.eclipse.ui.internal.introview"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
 <fastViewBars>
+<fastViewBar fastViewLocation="131072" id="org.eclipse.ui.internal.ViewStack@30182a74" orientation="512" selectedTabId="org.eclipse.ui.views.ProblemView" style="0">
+<fastViews>
+<view id="org.eclipse.ui.views.ProblemView" ratio="0.3"/>
+<view id="org.eclipse.jdt.ui.JavadocView" ratio="0.3"/>
+<view id="org.eclipse.jdt.ui.SourceView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
 <fastViewBar fastViewLocation="131072" id="org.eclipse.ui.internal.ViewStack@4db728df" orientation="256" selectedTabId="org.eclipse.mylyn.tasks.ui.views.tasks" style="0">
 <fastViews>
 <view id="org.eclipse.mylyn.tasks.ui.views.tasks" ratio="0.3"/>
@@ -302,31 +323,20 @@
 </folder>
 </info>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@194224ca" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="left">
-<folder activePageID="org.eclipse.ui.internal.introview" appearance="2" expanded="2">
-<page content="org.eclipse.ui.internal.introview" label="Welcome"/>
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 <page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-</presentation>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.24063401" ratioLeft="334" ratioRight="1054" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.7575419" ratioLeft="678" ratioRight="217" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
-<page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
-<page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
-<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<info part="org.eclipse.ui.editorss" ratio="0.21455324" ratioLeft="401" ratioRight="1468" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.8256983" ratioLeft="739" ratioRight="156" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
 <page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-<part id="1"/>
-<part id="2"/>
-<part id="3"/>
-</presentation>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@4db728df" ratio="0.7496513" ratioLeft="1075" ratioRight="359" relationship="2" relative="org.eclipse.ui.editorss">
@@ -343,6 +353,22 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@30182a74" ratio="0.7496749" ratioLeft="1153" ratioRight="385" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1eb906f3" ratio="0.6592179" ratioLeft="590" ratioRight="305" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
 <info part="org.eclipse.egit.ui.RepositoriesView" ratio="0.5993624" ratioLeft="564" ratioRight="377" relationship="4" relative="left"/>
 </mainWindow>
 </layout>
@@ -351,184 +377,178 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CadastroArtistas/src/entidades/Artista.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CadastroArtistas/src/entidades/Autor.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CadastroArtistas/src/entidades/Interprete.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CadastroArtistas/src/entidades/Musica.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CadastroArtistas/src/entidades/Autores.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CadastroArtistas/src/entidades/Interpretes.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CadastroArtistas/src/negocio/Sistema.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CalcVolume/src/volume/ConoTest.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CalcVolume/src/volume/ConoTroncado.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CalcVolume/src/VolumeCono.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/01CalcVolume/src/volume/ConoTest.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/01CalcVolume/src/volume/ConoTroncado.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/01CalcVolume/src/VolumeCono.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Aritmetica/src/calcular/Calculadora.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Aritmetica/src/calcular/CalculadoraTest.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/02Aritmetica/src/calcular/Calculadora.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/02Aritmetica/src/calcular/CalculadoraTest.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CALCULADORA/src/application/Program.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/CALCULADORA/src/model/entities/Calculator.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 3/src/application/Program.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 3/src/model/entities/Calculator.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 1/src/volume/ConoTest.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 1/src/volume/ConoTroncado.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 1/src/VolumeCono.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 2/src/calcular/Calculadora.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 2/src/calcular/CalculadoraTest.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 3/src/application/Program.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 4/src/negocio/Sistema.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 09/src/main/Usandoexcecoesencadeadas.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 09/src/main/UsandoExcecoes3.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 09/src/main/UsandoExcecoes.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 09/src/main/DivisaoPorZeroConExcecoes.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 09/src/main/UsandoExcecoes2.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 08/src/negocio/InteracoesTest.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/exemplo 10/src/entidades/AcessoDados.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/exemplo 10/src/entidades/AcessoDadosException.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/exemplo 10/src/entidades/EscreverDadosException.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/exemplo 10/src/entidades/ImplementacaoMySql.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/exemplo 10/src/main/ManejoExcecoes1.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/exemplo 10/src/entidades/AcessoDadosException.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/exemplo 10/src/entidades/EscreverDadosException.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/prueba/src/prueba.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 09/src/main/DivisaoPorZero.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 09/src/main/Usandoexcecoesencadeadas.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/exemplo 10/src/entidades/AcessoDados.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/exemplo 10/src/entidades/AcessoDadosException.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/exemplo 10/src/entidades/EscreverDadosException.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/exemplo 10/src/entidades/ImplementacaoMySql.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/exemplo 10/src/entidades/LerDadosException.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/exemplo 10/src/main/ManejoExcecoes1.java"/>
 </editors>
-<item historyLabel="Sistema.java" index="6">
-<position info="not_deleted" x="494" y="6"/>
-</item>
-<item historyLabel="Autores.java" index="4">
-<position info="not_deleted" x="1101" y="0"/>
-</item>
-<item historyLabel="Sistema.java" index="6">
-<position info="not_deleted" x="549" y="5"/>
-</item>
-<item historyLabel="Autor.java" index="1">
-<position info="not_deleted" x="46" y="0"/>
-</item>
-<item historyLabel="Artista.java" index="0">
-<position info="not_deleted" x="235" y="0"/>
-</item>
-<item historyLabel="Sistema.java" index="6">
-<position info="not_deleted" x="549" y="5"/>
-</item>
-<item historyLabel="Artista.java" index="0">
-<position info="not_deleted" x="396" y="0"/>
-</item>
-<item historyLabel="Sistema.java" index="6">
-<position info="not_deleted" x="607" y="2"/>
-</item>
-<item historyLabel="Autor.java" index="1">
-<position info="not_deleted" x="302" y="28"/>
-</item>
-<item historyLabel="Sistema.java" index="6">
-<position info="not_deleted" x="756" y="7"/>
-</item>
-<item historyLabel="Autores.java" index="4">
-<position info="not_deleted" x="211" y="8"/>
-</item>
-<item historyLabel="Sistema.java" index="6">
-<position info="not_deleted" x="980" y="11"/>
-</item>
-<item historyLabel="Interpretes.java" index="5">
-<position info="not_deleted" x="728" y="0"/>
-</item>
-<item historyLabel="Sistema.java" index="6">
-<position info="not_deleted" x="1030" y="7"/>
-</item>
-<item historyLabel="Interpretes.java" index="5">
-<position info="not_deleted" x="728" y="0"/>
-</item>
-<item historyLabel="Interprete.java" index="2">
-<position info="not_deleted" x="79" y="10"/>
-</item>
-<item historyLabel="Sistema.java" index="6">
-<position info="not_deleted" x="1087" y="4"/>
-</item>
-<item historyLabel="Interprete.java" index="2">
-<position info="not_deleted" x="249" y="0"/>
-</item>
-<item historyLabel="Sistema.java" index="6">
-<position info="not_deleted" x="1245" y="17"/>
-</item>
-<item historyLabel="Interpretes.java" index="5">
-<position info="not_deleted" x="269" y="0"/>
-</item>
-<item historyLabel="Sistema.java" index="6">
-<position info="not_deleted" x="1725" y="0"/>
-</item>
-<item historyLabel="Musica.java" index="3">
-<position info="not_deleted" x="510" y="8"/>
-</item>
-<item historyLabel="Sistema.java" index="6">
-<position info="not_deleted" x="2208" y="8"/>
-</item>
-<item historyLabel="Autores.java" index="4">
-<position info="not_deleted" x="570" y="20"/>
-</item>
-<item historyLabel="Sistema.java" index="6">
-<position info="not_deleted" x="2208" y="8"/>
-</item>
-<item historyLabel="Sistema.java" index="6">
-<position info="not_deleted" x="579" y="0"/>
-</item>
-<item historyLabel="Sistema.java" index="6">
-<position info="not_deleted" x="468" y="0"/>
-</item>
-<item historyLabel="ConoTest.java" index="7">
+<item historyLabel="UsandoExcecoes3.java" index="1">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="ConoTroncado.java" index="8">
+<item historyLabel="UsandoExcecoes.java" index="2">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="VolumeCono.java" index="9">
+<item historyLabel="DivisaoPorZeroConExcecoes.java" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="ConoTest.java" index="10">
+<item historyLabel="UsandoExcecoes.java" index="2">
+<position info="not_deleted" x="1023" y="0"/>
+</item>
+<item historyLabel="DivisaoPorZeroConExcecoes.java" index="3">
+<position info="not_deleted" x="355" y="0"/>
+</item>
+<item historyLabel="UsandoExcecoes.java" index="2">
+<position info="not_deleted" x="698" y="0"/>
+</item>
+<item historyLabel="UsandoExcecoes2.java" index="4">
+<position info="not_deleted" x="76" y="0"/>
+</item>
+<item historyLabel="UsandoExcecoes3.java" index="1">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="ConoTroncado.java" index="11">
+<item historyLabel="UsandoExcecoes2.java" index="4">
+<position info="not_deleted" x="76" y="0"/>
+</item>
+<item historyLabel="UsandoExcecoes3.java" index="1">
+<position info="not_deleted" x="990" y="0"/>
+</item>
+<item historyLabel="Usandoexcecoesencadeadas.java" index="0">
+<position info="not_deleted" x="218" y="73"/>
+</item>
+<item historyLabel="InteracoesTest.java" index="5">
+<position info="not_deleted" x="156" y="0"/>
+</item>
+<item historyLabel="AcessoDados.java" index="6">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="VolumeCono.java" index="12">
+<item historyLabel="AcessoDadosException.java" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Calculadora.java" index="13">
+<item historyLabel="EscreverDadosException.java" index="8">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="CalculadoraTest.java" index="14">
+<item historyLabel="ImplementacaoMySql.java" index="9">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Calculadora.java" index="15">
+<item historyLabel="ManejoExcecoes1.java" index="10">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="CalculadoraTest.java" index="16">
+<item historyLabel="AcessoDados.java" index="6">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Program.java" index="17">
+<item historyLabel="AcessoDadosException.java" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Calculator.java" index="18">
+<item historyLabel="EscreverDadosException.java" index="8">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Program.java" index="19">
+<item historyLabel="ImplementacaoMySql.java" index="9">
+<position info="not_deleted" x="1099" y="0"/>
+</item>
+<item historyLabel="AcessoDadosException.java" index="11">
+<position info="not_deleted" x="183" y="0"/>
+</item>
+<item historyLabel="ManejoExcecoes1.java" index="10">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Calculator.java" index="20">
+<item historyLabel="EscreverDadosException.java" index="12">
+<position info="not_deleted" x="92" y="14"/>
+</item>
+<item historyLabel="ManejoExcecoes1.java" index="10">
+<position info="not_deleted" x="14" y="0"/>
+</item>
+<item historyLabel="AcessoDadosException.java" index="11">
+<position info="not_deleted" x="183" y="0"/>
+</item>
+<item historyLabel="InteracoesTest.java" index="5">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="ConoTest.java" index="21">
+<item historyLabel="prueba.java" index="13">
+<position info="not_deleted" x="77" y="0"/>
+</item>
+<item historyLabel="DivisaoPorZero.java" index="14">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="ConoTroncado.java" index="22">
+<item historyLabel="Usandoexcecoesencadeadas.java" index="15">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="VolumeCono.java" index="23">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="Usandoexcecoesencadeadas.java" index="15">
+<position/>
 </item>
-<item historyLabel="Calculadora.java" index="24">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="Usandoexcecoesencadeadas.java" index="15">
+<position/>
 </item>
-<item historyLabel="CalculadoraTest.java" index="25">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="Usandoexcecoesencadeadas.java" index="15">
+<position/>
 </item>
-<item historyLabel="VolumeCono.java" index="23">
-<position info="not_deleted" x="293" y="0"/>
+<item historyLabel="Usandoexcecoesencadeadas.java" index="15">
+<position/>
 </item>
-<item historyLabel="ConoTest.java" index="21">
-<position info="not_deleted" x="432" y="0"/>
+<item historyLabel="Usandoexcecoesencadeadas.java" index="15">
+<position/>
 </item>
-<item historyLabel="Program.java" index="26">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="Usandoexcecoesencadeadas.java" index="15">
+<position/>
 </item>
-<item active="true" historyLabel="Sistema.java" index="27">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="Usandoexcecoesencadeadas.java" index="15">
+<position/>
+</item>
+<item historyLabel="AcessoDados.java" index="16">
+<position info="not_deleted" x="216" y="11"/>
+</item>
+<item historyLabel="AcessoDadosException.java" index="17">
+<position info="not_deleted" x="81" y="0"/>
+</item>
+<item historyLabel="EscreverDadosException.java" index="18">
+<position info="not_deleted" x="67" y="16"/>
+</item>
+<item historyLabel="ImplementacaoMySql.java" index="19">
+<position info="not_deleted" x="65" y="0"/>
+</item>
+<item historyLabel="AcessoDados.java" index="16">
+<position info="not_deleted" x="216" y="11"/>
+</item>
+<item historyLabel="ImplementacaoMySql.java" index="19">
+<position info="not_deleted" x="972" y="0"/>
+</item>
+<item historyLabel="LerDadosException.java" index="20">
+<position info="not_deleted" x="87" y="20"/>
+</item>
+<item historyLabel="AcessoDadosException.java" index="17">
+<position info="not_deleted" x="91" y="9"/>
+</item>
+<item historyLabel="ImplementacaoMySql.java" index="19">
+<position info="not_deleted" x="1115" y="10"/>
+</item>
+<item historyLabel="AcessoDados.java" index="16">
+<position info="not_deleted" x="216" y="11"/>
+</item>
+<item historyLabel="ManejoExcecoes1.java" index="21">
+<position info="not_deleted" x="255" y="0"/>
+</item>
+<item historyLabel="ImplementacaoMySql.java" index="19">
+<position info="not_deleted" x="150" y="11"/>
+</item>
+<item active="true" historyLabel="ManejoExcecoes1.java" index="21">
+<position info="not_deleted" x="255" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -540,6 +560,7 @@
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@194224ca"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@4db728df"/>
 <trimItem IMemento.internal.id="right"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@30182a74"/>
 </trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
@@ -553,32 +574,50 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Sistema.java" tooltip="Exemplo 4/src/negocio/Sistema.java">
-<persistable path="/Exemplo 4/src/negocio/Sistema.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ManejoExcecoes1.java" tooltip="exemplo 10/src/main/ManejoExcecoes1.java">
+<persistable path="/exemplo 10/src/main/ManejoExcecoes1.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.browser.editorSupport" name="index.html" tooltip="CadastroArtistas/doc/index.html">
-<persistable path="/CadastroArtistas/doc/index.html"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LerDadosException.java" tooltip="exemplo 10/src/entidades/LerDadosException.java">
+<persistable path="/exemplo 10/src/entidades/LerDadosException.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Sistema.java" tooltip="CadastroArtistas/src/negocio/Sistema.java">
-<persistable path="/CadastroArtistas/src/negocio/Sistema.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ImplementacaoMySql.java" tooltip="exemplo 10/src/entidades/ImplementacaoMySql.java">
+<persistable path="/exemplo 10/src/entidades/ImplementacaoMySql.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Albums.java" tooltip="CadastroArtistas/src/entidades/Albums.java">
-<persistable path="/CadastroArtistas/src/entidades/Albums.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EscreverDadosException.java" tooltip="exemplo 10/src/entidades/EscreverDadosException.java">
+<persistable path="/exemplo 10/src/entidades/EscreverDadosException.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Interpretes.java" tooltip="CadastroArtistas/src/entidades/Interpretes.java">
-<persistable path="/CadastroArtistas/src/entidades/Interpretes.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AcessoDadosException.java" tooltip="exemplo 10/src/entidades/AcessoDadosException.java">
+<persistable path="/exemplo 10/src/entidades/AcessoDadosException.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Autores.java" tooltip="CadastroArtistas/src/entidades/Autores.java">
-<persistable path="/CadastroArtistas/src/entidades/Autores.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AcessoDados.java" tooltip="exemplo 10/src/entidades/AcessoDados.java">
+<persistable path="/exemplo 10/src/entidades/AcessoDados.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Musicas.java" tooltip="CadastroArtistas/src/entidades/Musicas.java">
-<persistable path="/CadastroArtistas/src/entidades/Musicas.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Usandoexcecoesencadeadas.java" tooltip="Exemplo 09/src/main/Usandoexcecoesencadeadas.java">
+<persistable path="/Exemplo 09/src/main/Usandoexcecoesencadeadas.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Musica.java" tooltip="CadastroArtistas/src/entidades/Musica.java">
-<persistable path="/CadastroArtistas/src/entidades/Musica.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DivisaoPorZero.java" tooltip="Exemplo 09/src/main/DivisaoPorZero.java">
+<persistable path="/Exemplo 09/src/main/DivisaoPorZero.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Interprete.java" tooltip="CadastroArtistas/src/entidades/Interprete.java">
-<persistable path="/CadastroArtistas/src/entidades/Interprete.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.browser.editorSupport" name="index.html" tooltip="Exemplo 08/doc/index.html">
+<persistable path="/Exemplo 08/doc/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.browser.editorSupport" name="index.html" tooltip="prueba/doc/index.html">
+<persistable path="/prueba/doc/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="prueba.java" tooltip="prueba/src/prueba.java">
+<persistable path="/prueba/src/prueba.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InteracoesTest.java" tooltip="Exemplo 08/src/negocio/InteracoesTest.java">
+<persistable path="/Exemplo 08/src/negocio/InteracoesTest.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UsandoExcecoes2.java" tooltip="Exemplo 09/src/main/UsandoExcecoes2.java">
+<persistable path="/Exemplo 09/src/main/UsandoExcecoes2.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DivisaoPorZeroConExcecoes.java" tooltip="Exemplo 09/src/main/DivisaoPorZeroConExcecoes.java">
+<persistable path="/Exemplo 09/src/main/DivisaoPorZeroConExcecoes.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UsandoExcecoes.java" tooltip="Exemplo 09/src/main/UsandoExcecoes.java">
+<persistable path="/Exemplo 09/src/main/UsandoExcecoes.java"/>
 </file>
 </mruList>
 </workbench>
