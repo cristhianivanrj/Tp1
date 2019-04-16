@@ -1,0 +1,15 @@
+package integracao;
+
+import integracao.AcessoDadosEx;
+
+@SuppressWarnings("serial")
+public class EscrituraDedadosEx extends AcessoDadosEx {
+	public EscrituraDedadosEx(String mensagem){
+		super(mensagem);
+	
+	}
+}
+
+
+
+

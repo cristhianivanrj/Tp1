@@ -31,38 +31,13 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
-<part id="1"/>
-<part id="2"/>
-<part id="3"/>
-<part id="4"/>
-<part id="5"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AcessoDados.java" partName="AcessoDados.java" path="/home/cristhian/workspacetp1/exemplo 10/src/entidades/AcessoDados.java" title="AcessoDados.java" tooltip="exemplo 10/src/entidades/AcessoDados.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/exemplo 10/src/entidades/AcessoDados.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="11" selectionOffset="216" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AcessoDadosException.java" partName="AcessoDadosException.java" path="/home/cristhian/workspacetp1/exemplo 10/src/entidades/AcessoDadosException.java" title="AcessoDadosException.java" tooltip="exemplo 10/src/entidades/AcessoDadosException.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/exemplo 10/src/entidades/AcessoDadosException.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="9" selectionOffset="91" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EscreverDadosException.java" partName="EscreverDadosException.java" path="/home/cristhian/workspacetp1/exemplo 10/src/entidades/EscreverDadosException.java" title="EscreverDadosException.java" tooltip="exemplo 10/src/entidades/EscreverDadosException.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/exemplo 10/src/entidades/EscreverDadosException.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="16" selectionOffset="67" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ImplementacaoMySql.java" partName="ImplementacaoMySql.java" path="/home/cristhian/workspacetp1/exemplo 10/src/entidades/ImplementacaoMySql.java" title="ImplementacaoMySql.java" tooltip="exemplo 10/src/entidades/ImplementacaoMySql.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/exemplo 10/src/entidades/ImplementacaoMySql.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="11" selectionOffset="150" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LerDadosException.java" partName="LerDadosException.java" path="/home/cristhian/workspacetp1/exemplo 10/src/entidades/LerDadosException.java" title="LerDadosException.java" tooltip="exemplo 10/src/entidades/LerDadosException.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/exemplo 10/src/entidades/LerDadosException.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="20" selectionOffset="87" selectionTopPixel="0"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ManejoExcecoes1.java" partName="ManejoExcecoes1.java" path="/home/cristhian/workspacetp1/exemplo 10/src/main/ManejoExcecoes1.java" title="ManejoExcecoes1.java" tooltip="exemplo 10/src/main/ManejoExcecoes1.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/exemplo 10/src/main/ManejoExcecoes1.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1831" selectionTopPixel="398"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ManejoColecciones.java" partName="ManejoColecciones.java" path="/home/cristhian/workspacetp1/Exemplo 11/src/entidades/ManejoColecciones.java" title="ManejoColecciones.java" tooltip="Exemplo 11/src/entidades/ManejoColecciones.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Exemplo 11/src/entidades/ManejoColecciones.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="697" selectionTopPixel="568"/>
 </editor>
 </editors>
 <views>
@@ -98,8 +73,15 @@
 </customFilters>
 </viewState>
 </view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>
+<category IMemento.internal.id="Errors"/>
+<category IMemento.internal.id="Warnings (11 items)"/>
+</expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="765" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
@@ -107,9 +89,6 @@
 <visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
 </viewState>
-</view>
-<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
-<viewState/>
 </view>
 <view id="org.eclipse.jdt.ui.SourceView" partName="Declaration">
 <viewState/>
@@ -354,14 +333,14 @@
 </folder>
 </info>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@30182a74" ratio="0.7496749" ratioLeft="1153" ratioRight="385" relationship="2" relative="org.eclipse.ui.editorss">
-<folder appearance="2" expanded="0">
+<folder appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.ui.SourceView" label="LabelNotFound"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@1eb906f3" ratio="0.6592179" ratioLeft="590" ratioRight="305" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1eb906f3" ratio="0.7497207" ratioLeft="671" ratioRight="224" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
@@ -399,13 +378,8 @@
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/exemplo 10/src/entidades/ImplementacaoMySql.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/exemplo 10/src/entidades/LerDadosException.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/exemplo 10/src/main/ManejoExcecoes1.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 11/src/entidades/ManejoColecciones.java"/>
 </editors>
-<item historyLabel="UsandoExcecoes3.java" index="1">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="UsandoExcecoes.java" index="2">
-<position info="not_deleted" x="0" y="0"/>
-</item>
 <item historyLabel="DivisaoPorZeroConExcecoes.java" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
@@ -547,8 +521,14 @@
 <item historyLabel="ImplementacaoMySql.java" index="19">
 <position info="not_deleted" x="150" y="11"/>
 </item>
-<item active="true" historyLabel="ManejoExcecoes1.java" index="21">
-<position info="not_deleted" x="255" y="0"/>
+<item historyLabel="ManejoExcecoes1.java" index="21">
+<position info="not_deleted" x="1831" y="0"/>
+</item>
+<item historyLabel="ManejoColecciones.java" index="22">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="ManejoColecciones.java" index="22">
+<position info="not_deleted" x="131" y="6"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -557,7 +537,6 @@
 <actionBarAdvisor/>
 <trimLayout>
 <trimArea IMemento.internal.id="131072">
-<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@194224ca"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@4db728df"/>
 <trimItem IMemento.internal.id="right"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@30182a74"/>
@@ -574,6 +553,9 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ManejoColecciones.java" tooltip="Exemplo 11/src/entidades/ManejoColecciones.java">
+<persistable path="/Exemplo 11/src/entidades/ManejoColecciones.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ManejoExcecoes1.java" tooltip="exemplo 10/src/main/ManejoExcecoes1.java">
 <persistable path="/exemplo 10/src/main/ManejoExcecoes1.java"/>
 </file>
@@ -615,9 +597,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DivisaoPorZeroConExcecoes.java" tooltip="Exemplo 09/src/main/DivisaoPorZeroConExcecoes.java">
 <persistable path="/Exemplo 09/src/main/DivisaoPorZeroConExcecoes.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UsandoExcecoes.java" tooltip="Exemplo 09/src/main/UsandoExcecoes.java">
-<persistable path="/Exemplo 09/src/main/UsandoExcecoes.java"/>
 </file>
 </mruList>
 </workbench>
