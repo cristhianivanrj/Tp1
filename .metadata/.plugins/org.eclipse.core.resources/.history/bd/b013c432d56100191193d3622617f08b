@@ -1,0 +1,56 @@
+package test;
+
+//import static org.junit.Assert.*;
+//import junit.framework.Assert;
+
+import main.Pessoa;
+import main.UtilPessoa;
+
+import org.junit.Assert;
+import org.junit.Test;
+
+public class PessoaTest2 {
+
+	private UtilPessoa utils;
+
+	@Test
+	public void testGetIdPessoa() {
+		//fail("Not yet implemented");
+		Pessoa person = new Pessoa();
+		person.setIdPessoa(16);
+		int actualId = person.getIdPessoa();
+		Assert.assertEquals("IdPessoa  diferente",16, actualId);		
+	}
+
+
+	@Test
+	public void testGetNome() {		
+		Pessoa person = new Pessoa();
+		String nome = "Carlos";
+		person.setNome(nome);
+		String nomeAtual= person.getNome();
+		Assert.assertEquals("Nome igual",nome,nomeAtual);
+	}
+
+
+	@Test
+	public void testGetSobrenome() {
+		//fail("Not yet implemented");
+		Pessoa person = new Pessoa();
+		String sobreNomeEsperado = "Rodriguez";
+		person.setSobrenome(sobreNomeEsperado);
+		String actual = person.getSobrenome();
+		Assert.assertEquals(sobreNomeEsperado, actual);		
+	}
+	
+	@Test
+	public void testGetCarlos() {
+		Pessoa Carlos = utils.GetCarlos();
+		int n=16;
+		Assert.assertEquals("Ids nao Iguais ",n, Carlos.getIdPessoa());
+		//Assert.assertEquals("Nomes nao Iguais ","Carlos", Carlos.getNome());
+		//Assert.assertEquals("SobreNomes nao Iguais ","Romero", Carlos.getSobrenome());
+	}
+
+
+}

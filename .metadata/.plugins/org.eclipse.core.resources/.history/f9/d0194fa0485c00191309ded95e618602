@@ -1,7 +1,0 @@
-package exemplo09;
-
-public interface Pagavel {
-
-		double getValorPagamento();
-		}
-

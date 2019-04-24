@@ -1,0 +1,26 @@
+package test;
+
+import static org.junit.Assert.*;
+//import junit.framework.Assert;
+
+import org.junit.Assert;
+import org.junit.Test;
+
+import dados.Conexao;
+
+public class ConexaoTest {
+	private Conexao conn;
+
+	@SuppressWarnings("deprecation")
+	@Test
+	public void test() {
+		//fail("Not yet implemented");
+		Assert.fail("Prueba de Falla");
+	}
+	
+	@Test
+	public void testFailConnectionBD(){
+		
+	}
+
+}

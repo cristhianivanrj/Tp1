@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item value="OSGi/Minimum-1.2" key="org.eclipse.jdt.ui.last.selected.execution.enviroment"/>
-	<section name="GenerateConstructorUsingFieldsSelectionDialog">
-		<item value="false" key="OmitCallToSuper"/>
-	</section>
+	<item value="JavaSE-1.7" key="org.eclipse.jdt.ui.last.selected.execution.enviroment"/>
+	<item value="/home/cristhian/LibreriasJava/JUnit-20190103/new" key="org.eclipse.jdt.ui.lastextjar"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item value="2" key="layout"/>
 		<item value="true" key="group_libraries"/>
@@ -18,19 +16,168 @@
 		<item value="678" key="DIALOG_X_ORIGIN"/>
 		<item value="0" key="DIALOG_Y_ORIGIN"/>
 	</section>
-	<section name="NewClassWizardPage">
-		<item value="false" key="create_constructor"/>
-		<item value="true" key="create_main"/>
-		<item value="true" key="create_unimplemented"/>
-	</section>
-	<section name="OptionalMessageDialog.hide.">
-		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>
-	</section>
 	<section name="SourceActionDialog.constructors">
 		<item value="false" key="SynchronizedModifier"/>
 		<item value="false" key="Comments"/>
 		<item value="1" key="VisibilityModifier"/>
 		<item value="false" key="FinalModifier"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.typehierarchy.QuickHierarchy">
+		<item value="true" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_SIZE"/>
+		<item value="399" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_HEIGHT"/>
+		<item value="450" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_WIDTH"/>
+		<item value="false" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_LOCATION"/>
+	</section>
+	<section name="javadoc">
+		<item value="public" key="access"/>
+		<item value="false" key="noindex"/>
+		<item value="/home/cristhian/workspacetp1/exemplo 10/javadoc.xml" key="antpath"/>
+		<item value="false" key="nodeprecatedlist"/>
+		<item value="true" key="use"/>
+		<item value="true" key="author"/>
+		<item value="false" key="nodeprecated"/>
+		<item value="false" key="nonavbar"/>
+		<item value="" key="docletpath"/>
+		<item value="/usr/lib/jvm/java-8-openjdk-amd64/bin/javadoc" key="javadoc_command_history"/>
+		<item value="1.7" key="source"/>
+		<item value="true" key="version"/>
+		<item value="" key="docletname"/>
+		<item value="true" key="splitindex"/>
+		<item value="true" key="fromStandard"/>
+		<item value="false" key="notree"/>
+		<item value="/home/cristhian/workspacetp1/exemplo 10/doc" key="destdir"/>
+		<item value="false" key="openinbrowser"/>
+		<section name="projects">
+			<section name="exemplo 10">
+				<item value="/home/cristhian/workspacetp1/exemplo 10/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/exemplo 10/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Exemplo 01">
+				<item value="/home/cristhian/workspacetp1/Exemplo 01/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/Exemplo 01/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Exemplo 12">
+				<item value="/home/cristhian/workspacetp1/Exemplo 12/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/Exemplo 12/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Exemplo 00">
+				<item value="/home/cristhian/workspacetp1/Exemplo 00/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/Exemplo 00/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Exemplo 11">
+				<item value="/home/cristhian/workspacetp1/Exemplo 11/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/Exemplo 11/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Exemplo 03">
+				<item value="/home/cristhian/workspacetp1/Exemplo 03/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/Exemplo 03/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Exemplo 14">
+				<item value="/home/cristhian/workspacetp1/Exemplo 14/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/Exemplo 14/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Exemplo 02">
+				<item value="/home/cristhian/workspacetp1/Exemplo 02/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/Exemplo 02/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Exemplo 13">
+				<item value="/home/cristhian/workspacetp1/Exemplo 13/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/Exemplo 13/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Exemplo 05">
+				<item value="/home/cristhian/workspacetp1/Exemplo 05/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/Exemplo 05/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Exemplo 16">
+				<item value="/home/cristhian/workspacetp1/Exemplo 16/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/Exemplo 16/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Exemplo 04">
+				<item value="/home/cristhian/workspacetp1/Exemplo 04/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/CadastroArtistas/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Exemplo 15">
+				<item value="/home/cristhian/workspacetp1/Exemplo 15/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/Exemplo 15/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Exemplo 07">
+				<item value="/home/cristhian/workspacetp1/Exemplo 07/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/Exemplo 07/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Exemplo 06">
+				<item value="/home/cristhian/workspacetp1/Exemplo 06/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/Exemplo 06/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Exemplo 09">
+				<item value="/home/cristhian/workspacetp1/Exemplo 09/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/Exemplo 09/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Exemplo 08">
+				<item value="/home/cristhian/workspacetp1/Exemplo 08/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/Exemplo 08/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+		</section>
+	</section>
+	<section name="OverrideMethodDialog">
+		<item value="true" key="showtypes"/>
+	</section>
+	<section name="DialogBounds_AddUnimplementedConstructorsDialog">
+		<item value="565" key="DIALOG_WIDTH"/>
+		<item value="1|Noto Sans|10.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="699" key="DIALOG_HEIGHT"/>
+		<item value="678" key="DIALOG_X_ORIGIN"/>
+		<item value="36" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="JavadocWizardDialog">
+		<item value="616" key="DIALOG_WIDTH"/>
+		<item value="1|Noto Sans|10.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="730" key="DIALOG_HEIGHT"/>
+		<item value="660" key="DIALOG_X_ORIGIN"/>
+		<item value="65" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="AddGetterSetterDialog">
+		<item value="false" key="SortOrdering"/>
+		<item value="false" key="RemoveFinal"/>
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item value="false" key="renameSubpackages"/>
+		<item value="false" key="updateQualifiedNames"/>
+		<item value="*" key="patterns"/>
+		<item value="false" key="updateSimilarElements"/>
+		<item value="false" key="updateTextualMatches"/>
+		<item value="1" key="updateSimilarElementsMatchStrategy"/>
+	</section>
+	<section name="GenerateConstructorUsingFieldsSelectionDialog">
+		<item value="false" key="OmitCallToSuper"/>
+	</section>
+	<section name="NewClassWizardPage">
+		<item value="false" key="create_constructor"/>
+		<item value="false" key="create_main"/>
+		<item value="true" key="create_unimplemented"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>
 	</section>
 	<section name="DialogBounds_OverrideMethodDialog">
 		<item value="581" key="DIALOG_WIDTH"/>
@@ -57,83 +204,6 @@
 		<item value="600" key="width"/>
 		<item value="400" key="height"/>
 	</section>
-	<section name="javadoc">
-		<item value="public" key="access"/>
-		<item value="false" key="noindex"/>
-		<item value="/home/cristhian/workspacetp1/prueba/javadoc.xml" key="antpath"/>
-		<item value="false" key="nodeprecatedlist"/>
-		<item value="true" key="use"/>
-		<item value="true" key="author"/>
-		<item value="false" key="nodeprecated"/>
-		<item value="false" key="nonavbar"/>
-		<item value="" key="docletpath"/>
-		<item value="/usr/lib/jvm/java-8-openjdk-amd64/bin/javadoc" key="javadoc_command_history"/>
-		<item value="1.3" key="source"/>
-		<item value="true" key="version"/>
-		<item value="" key="docletname"/>
-		<item value="true" key="splitindex"/>
-		<item value="true" key="fromStandard"/>
-		<item value="false" key="notree"/>
-		<item value="/home/cristhian/workspacetp1/prueba/doc" key="destdir"/>
-		<item value="false" key="openinbrowser"/>
-		<section name="projects">
-			<section name="Exemplo 09">
-				<item value="/home/cristhian/workspacetp1/Exemplo 09/javadoc.xml" key="antpath"/>
-				<item value="/home/cristhian/workspacetp1/Exemplo 09/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="Exemplo 08">
-				<item value="/home/cristhian/workspacetp1/Exemplo 08/javadoc.xml" key="antpath"/>
-				<item value="/home/cristhian/workspacetp1/Exemplo 08/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="exemplo 10">
-				<item value="/home/cristhian/workspacetp1/exemplo 10/javadoc.xml" key="antpath"/>
-				<item value="/home/cristhian/workspacetp1/exemplo 10/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="Exemplo 01">
-				<item value="/home/cristhian/workspacetp1/Exemplo 01/javadoc.xml" key="antpath"/>
-				<item value="/home/cristhian/workspacetp1/Exemplo 01/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="Exemplo 03">
-				<item value="/home/cristhian/workspacetp1/Exemplo 03/javadoc.xml" key="antpath"/>
-				<item value="/home/cristhian/workspacetp1/Exemplo 03/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="prueba">
-				<item value="/home/cristhian/workspacetp1/prueba/javadoc.xml" key="antpath"/>
-				<item value="/home/cristhian/workspacetp1/prueba/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="Exemplo 02">
-				<item value="/home/cristhian/workspacetp1/Exemplo 02/javadoc.xml" key="antpath"/>
-				<item value="/home/cristhian/workspacetp1/Exemplo 02/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="Exemplo 05">
-				<item value="/home/cristhian/workspacetp1/Exemplo 05/javadoc.xml" key="antpath"/>
-				<item value="/home/cristhian/workspacetp1/Exemplo 05/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="Exemplo 04">
-				<item value="/home/cristhian/workspacetp1/Exemplo 04/javadoc.xml" key="antpath"/>
-				<item value="/home/cristhian/workspacetp1/CadastroArtistas/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="Exemplo 07">
-				<item value="/home/cristhian/workspacetp1/Exemplo 07/javadoc.xml" key="antpath"/>
-				<item value="/home/cristhian/workspacetp1/Exemplo 07/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-			<section name="Exemplo 06">
-				<item value="/home/cristhian/workspacetp1/Exemplo 06/javadoc.xml" key="antpath"/>
-				<item value="/home/cristhian/workspacetp1/Exemplo 06/doc" key="destdir"/>
-				<item value="" key="href"/>
-			</section>
-		</section>
-	</section>
 	<section name="SourceActionDialog.methods">
 		<item value="true" key="IgnoreDefault"/>
 		<item value="false" key="SynchronizedModifier"/>
@@ -149,15 +219,8 @@
 	<section name="AddUnimplementedConstructorsDialog">
 		<item value="false" key="OmitCallToSuper"/>
 	</section>
-	<section name="OverrideMethodDialog">
-		<item value="true" key="showtypes"/>
-	</section>
-	<section name="DialogBounds_AddUnimplementedConstructorsDialog">
-		<item value="565" key="DIALOG_WIDTH"/>
-		<item value="1|Noto Sans|10.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
-		<item value="699" key="DIALOG_HEIGHT"/>
-		<item value="678" key="DIALOG_X_ORIGIN"/>
-		<item value="36" key="DIALOG_Y_ORIGIN"/>
+	<section name="ClasspathContainerSelectionPage">
+		<item value="1" key="index"/>
 	</section>
 	<section name="NewPackageWizardPage">
 		<item value="false" key="create_package_info_java"/>
@@ -165,21 +228,6 @@
 	<section name="quick_assist_proposal_size">
 	</section>
 	<section name="BuildPathsPropertyPage">
-		<item value="3" key="pageIndex"/>
-	</section>
-	<section name="JavadocWizardDialog">
-		<item value="608" key="DIALOG_WIDTH"/>
-		<item value="1|Noto Sans|10.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
-		<item value="697" key="DIALOG_HEIGHT"/>
-		<item value="660" key="DIALOG_X_ORIGIN"/>
-		<item value="65" key="DIALOG_Y_ORIGIN"/>
-	</section>
-	<section name="completion_proposal_size">
-	</section>
-	<section name="AddGetterSetterDialog">
-		<item value="false" key="SortOrdering"/>
-		<item value="false" key="RemoveFinal"/>
-	</section>
-	<section name="JavaElementSearchActions">
+		<item value="2" key="pageIndex"/>
 	</section>
 </section>

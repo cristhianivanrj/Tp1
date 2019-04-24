@@ -1,5 +1,4 @@
 package entidades;
-
 import integracao.DadosFilme;
 import integracao.DadosCatalogo;
 

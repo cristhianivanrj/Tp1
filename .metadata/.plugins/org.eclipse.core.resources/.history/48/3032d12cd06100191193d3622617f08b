@@ -1,0 +1,39 @@
+package main;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class PessoaTest2 {
+
+	@Test
+	public void testGetIdPessoa() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSetIdPessoa() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetNome() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSetNome() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetSobrenome() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSetSobrenome() {
+		fail("Not yet implemented");
+	}
+
+}

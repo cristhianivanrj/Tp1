@@ -1,0 +1,34 @@
+package main;
+
+import static org.junit.Assert.*;
+import junit.framework.Assert;
+
+import org.junit.Test;
+
+public class PessoaTest {
+
+	@Test
+	public void testGetIdPessoa() {
+		//fail("Not yet implemented");
+		Pessoa person = new Pessoa();
+		int esperado = 16;
+		person.setIdPessoa(esperado);
+		int atual = person.getIdPessoa();
+		Assert.assertEquals(esperado, atual);
+		
+		
+		
+		
+	}
+
+//	@Test
+//	public void testGetNome() {
+//		fail("Not yet implemented");
+//	}
+//
+//	@Test
+//	public void testGetSobrenome() {
+//		fail("Not yet implemented");
+//	}
+
+}
