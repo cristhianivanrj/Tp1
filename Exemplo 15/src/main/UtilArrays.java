@@ -4,8 +4,6 @@ import java.lang.*;
 public class UtilArrays {
 	private int a;
 	private int b;
-	
-	
 
 	public UtilArrays(int a, int b) {
 		super();
@@ -13,7 +11,6 @@ public class UtilArrays {
 		this.b = b;
 	}
 
- 
 	public String concatenar (String uno, String dos) {
 		if(uno != null && dos != null ){
 		return uno.concat(" ").concat(dos);

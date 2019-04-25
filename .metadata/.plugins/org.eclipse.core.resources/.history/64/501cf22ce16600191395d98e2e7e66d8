@@ -1,0 +1,14 @@
+package main;
+
+public class Utilidades {
+	
+	
+	
+	public String concatenar (String uno, String dos, String tres) {
+		if(uno != null && dos != null ){
+		return uno.concat(" ").concat(dos).concat(tres);
+	}
+	return null;
+	}
+
+}

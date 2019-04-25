@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AllTests (1)" project="Exemplo 15" tests="36" started="36" failures="0" errors="0" ignored="0">
+  <testsuite name="test.AllTests" time="0.009">
+    <testsuite name="test.Parametrizado2Test" time="0.0">
+      <testsuite name="[0]" time="0.0">
+        <testcase name="test[0]" classname="test.Parametrizado2Test" time="0.0"/>
+      </testsuite>
+      <testsuite name="[1]" time="0.0">
+        <testcase name="test[1]" classname="test.Parametrizado2Test" time="0.0"/>
+      </testsuite>
+      <testsuite name="[2]" time="0.0">
+        <testcase name="test[2]" classname="test.Parametrizado2Test" time="0.0"/>
+      </testsuite>
+    </testsuite>
+    <testsuite name="test.parametrizadoTest" time="0.0">
+      <testsuite name="[0]" time="0.0">
+        <testcase name="TestConcatenar[0]" classname="test.parametrizadoTest" time="0.0"/>
+      </testsuite>
+      <testsuite name="[1]" time="0.0">
+        <testcase name="TestConcatenar[1]" classname="test.parametrizadoTest" time="0.0"/>
+      </testsuite>
+      <testsuite name="[2]" time="0.0">
+        <testcase name="TestConcatenar[2]" classname="test.parametrizadoTest" time="0.0"/>
+      </testsuite>
+      <testsuite name="[3]" time="0.0">
+        <testcase name="TestConcatenar[3]" classname="test.parametrizadoTest" time="0.0"/>
+      </testsuite>
+      <testsuite name="[4]" time="0.0">
+        <testcase name="TestConcatenar[4]" classname="test.parametrizadoTest" time="0.0"/>
+      </testsuite>
+    </testsuite>
+    <testsuite name="test.PessoaTest" time="0.0">
+      <testcase name="testGetIdPessoa" classname="test.PessoaTest" time="0.0"/>
+      <testcase name="testGetNome" classname="test.PessoaTest" time="0.0"/>
+      <testcase name="testGetSobreNome" classname="test.PessoaTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="test.PessoaTest2" time="0.003">
+      <testcase name="testGetNome" classname="test.PessoaTest2" time="0.003"/>
+      <testcase name="testGetIdPessoa" classname="test.PessoaTest2" time="0.0"/>
+    </testsuite>
+    <testsuite name="test.UtilArraysP1Test" time="0.0">
+      <testsuite name="[0]" time="0.0">
+        <testcase name="testSuma[0]" classname="test.UtilArraysP1Test" time="0.0"/>
+      </testsuite>
+      <testsuite name="[1]" time="0.0">
+        <testcase name="testSuma[1]" classname="test.UtilArraysP1Test" time="0.0"/>
+      </testsuite>
+      <testsuite name="[2]" time="0.0">
+        <testcase name="testSuma[2]" classname="test.UtilArraysP1Test" time="0.0"/>
+      </testsuite>
+      <testsuite name="[3]" time="0.0">
+        <testcase name="testSuma[3]" classname="test.UtilArraysP1Test" time="0.0"/>
+      </testsuite>
+      <testsuite name="[4]" time="0.0">
+        <testcase name="testSuma[4]" classname="test.UtilArraysP1Test" time="0.0"/>
+      </testsuite>
+    </testsuite>
+    <testsuite name="test.UtilArraysTest" time="0.004">
+      <testcase name="testConcatenar" classname="test.UtilArraysTest" time="0.0"/>
+      <testcase name="testConcatenar_2" classname="test.UtilArraysTest" time="0.0"/>
+      <testcase name="testConcatenar_3" classname="test.UtilArraysTest" time="0.0"/>
+      <testcase name="testConcatenar_4" classname="test.UtilArraysTest" time="0.0"/>
+      <testcase name="testConditionBoolean_1" classname="test.UtilArraysTest" time="0.0"/>
+      <testcase name="testConditionBoolean_2" classname="test.UtilArraysTest" time="0.0"/>
+      <testcase name="testGetArrayString_1" classname="test.UtilArraysTest" time="0.001"/>
+      <testcase name="testGetArrayString_2" classname="test.UtilArraysTest" time="0.0"/>
+      <testcase name="testGetArrayString_3" classname="test.UtilArraysTest" time="0.0"/>
+      <testcase name="testGetArrayString_4" classname="test.UtilArraysTest" time="0.0"/>
+      <testcase name="testGetArrayString_5" classname="test.UtilArraysTest" time="0.001"/>
+      <testcase name="testGetArrayString_6" classname="test.UtilArraysTest" time="0.0"/>
+      <testcase name="testGetArrayString_7" classname="test.UtilArraysTest" time="0.0"/>
+      <testcase name="testGetArrayString_8" classname="test.UtilArraysTest" time="0.0"/>
+      <testcase name="testSuma" classname="test.UtilArraysTest" time="0.002"/>
+    </testsuite>
+    <testsuite name="test.UtilidadesLibreriaTest" time="0.002">
+      <testsuite name="testParametros" time="0.002">
+        <testcase name="testParametros" classname="001,Carlos,Ramirez" time="0.001"/>
+        <testcase name="testParametros" classname="002,Maria,Gomez" time="0.0"/>
+        <testcase name="testParametros" classname="003, Fernanda, Jaimes" time="0.001"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

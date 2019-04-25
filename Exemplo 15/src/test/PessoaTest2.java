@@ -30,17 +30,4 @@ public class PessoaTest2 {
 		Assert.assertEquals("Nome igual",nome,nomeAtual);
 	}
 
-
-//	@Test
-//	public void testGetSobrenome() {
-//		//fail("Not yet implemented");
-//		Pessoa person = new Pessoa();
-//		String sobreNomeEsperado = "Rodriguez";
-//		person.setSobrenome(sobreNomeEsperado);
-//		String actual = person.getSobrenome();
-//		Assert.assertEquals(sobreNomeEsperado, actual);		
-//	}
-//	
-
-
 }

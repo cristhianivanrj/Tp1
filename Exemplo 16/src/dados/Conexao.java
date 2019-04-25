@@ -18,6 +18,7 @@ public class Conexao {
 
     public static String getJDBC_BD() {
 		return JDBC_BD;
+
 	}
 
 	public static void setJDBC_BD(String jDBC_BD) {
@@ -37,5 +38,4 @@ public class Conexao {
     	
 		return conn;     	
     }
-
 }

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PessoaTest (1)" project="Exemplo 15" tests="12" started="12" failures="0" errors="0" ignored="0">
+  <testsuite name="test.PessoaTest" time="0.005">
+    <testcase name="testEquals_1" classname="test.PessoaTest" time="0.0"/>
+    <testcase name="testEquals_2" classname="test.PessoaTest" time="0.0"/>
+    <testcase name="testEquals_3" classname="test.PessoaTest" time="0.0"/>
+    <testcase name="testEquals_4" classname="test.PessoaTest" time="0.0"/>
+    <testcase name="testGetArrayPessoa" classname="test.PessoaTest" time="0.002"/>
+    <testcase name="testGetCarlos" classname="test.PessoaTest" time="0.001"/>
+    <testcase name="testGetCarlosCamila" classname="test.PessoaTest" time="0.0"/>
+    <testcase name="testGetCarlosJuan" classname="test.PessoaTest" time="0.001"/>
+    <testcase name="testGetIdPessoa" classname="test.PessoaTest" time="0.0"/>
+    <testcase name="testGetJuan" classname="test.PessoaTest" time="0.0"/>
+    <testcase name="testGetNome" classname="test.PessoaTest" time="0.0"/>
+    <testcase name="testGetSobreNome" classname="test.PessoaTest" time="0.001"/>
+  </testsuite>
+</testrun>

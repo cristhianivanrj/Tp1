@@ -1,0 +1,30 @@
+package main;
+
+import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
+
+import entidades.Filme;
+
+public class Utilidades {
+		
+	
+	public String concatenar (String uno, String dos, String tres) {
+		if(uno != null && dos != null ){
+		return uno.concat(" ").concat(dos+" ").concat(tres);
+	}
+	return null;
+	}
+	
+	
+	 public List <Pessoa> listar(String nomeArquivo){
+		 List lista = new ArrayList <Pessoa>();
+		 
+		 return lista;
+	 }
+	
+
+	
+      
+      
+}

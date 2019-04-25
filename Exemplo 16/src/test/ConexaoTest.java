@@ -32,5 +32,26 @@ public class ConexaoTest {
 		Assert.assertThat(con, Matchers.notNullValue());
 		Assert.assertThat(conexao.getJDBC_BD(), Matchers.equalTo("bdTest"));											
 	}
+	
+	@Test
+	public void testSetJDBC_BD(){
+		conexao = new Conexao();
+		conexao.setJDBC_BD("bdTest");
+		java.sql.Connection con = conexao.getConexao(); 
+		if(con != null){
+			System.out.println("Conexao ok ");
+		}
+		Assert.assertThat(con, Matchers.notNullValue());		
+	}
+	
+	@Test 
+	public void testFalhaConnectBD(){
+		conexao = new Conexao();
+		conexao.setJDBC_BD("errada");
+		java.sql.Connection con = conexao.getConexao();
+		Assert.assertThat(con, Matchers.nullValue());
+	}
+	
+	
 
 }

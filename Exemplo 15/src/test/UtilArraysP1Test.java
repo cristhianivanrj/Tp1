@@ -38,5 +38,4 @@ public class UtilArraysP1Test {
 		int actual=utils.suma(v1, v2);
 		Assert.assertEquals(sum, actual);		
 	}
-
 }

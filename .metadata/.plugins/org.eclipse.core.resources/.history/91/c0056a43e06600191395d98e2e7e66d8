@@ -1,0 +1,40 @@
+package test;
+
+import java.util.Arrays;
+import java.util.Collection;
+
+
+
+import main.Utilidades;
+
+import org.junit.Test;
+import org.junit.Assert;
+import org.junit.runners.Parameterized.Parameter;
+import org.junit.runners.Parameterized.Parameters;
+
+public class parametrizadoTest {
+	@Parameters
+	public static Collection <Object[]> datos(){
+		return Arrays.asList(new Object [] []{
+				{"a","b"},{"c","d"},{"e","f"},{"g","h"},{"i","j"}
+		});
+	}
+	@Parameter(0)
+	public String valor1;
+
+	@Parameter(1)
+	public String valor2;
+	
+	@Parameter(03)
+	public String valor3;
+	
+	private Utilidades utils = new Utilidades();
+	
+	@Test	
+	public void TestConcatenar(){
+		System.out.println("V1 =  "+ valor1+ " V2 = "+valor2+ " V3= "+ valor3);
+		expected=valor1+" "+ valor2+" "+valor3;
+		Assert.assertEquals(expected, actual);
+		
+	}
+}

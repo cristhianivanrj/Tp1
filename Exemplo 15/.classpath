@@ -5,5 +5,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="/home/cristhian/Dropbox/01_Professor_CIC/TP1_2019/10. Testes Unitarios/JUnit-20190103/hamcrest-junit-2.0.0.0.jar"/>
 	<classpathentry kind="lib" path="/home/cristhian/Dropbox/01_Professor_CIC/TP1_2019/10. Testes Unitarios/JUnit-20190103/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/home/cristhian/LibreriasJava/JUnitParams-1.1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

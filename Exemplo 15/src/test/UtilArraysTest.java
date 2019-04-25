@@ -23,8 +23,7 @@ public class UtilArraysTest {
 	}
 
 	@Test
-	public void testGetArrayString_1() throws Exception {
-		//throw new RuntimeException("not yet implemented");
+	public void testGetArrayString_1() throws Exception {		
 		String [] esperado = {"uno","dos", "tres"};
 		String [] resultado = utils.getArrayString("uno","dos", "tres");		
 		Assert.assertArrayEquals(esperado, resultado);

@@ -5,14 +5,7 @@ import java.sql.SQLException;
 import com.mysql.jdbc.Connection;
 
 public class Conexao2 {
-	
-//	public static String JDBC_BD 		= "camilaBD";
-//	public static String JDBC_HOST 		= "localhost";
-//  public static String JDBC_DRIVER   	= "com.mysql.jdbc.Driver";
-//  public static String JDBC_URL     	 = "jdbc:mysql://localhost/camilaBD?";
-//  public static String JDBC_USER     	= "camila";
-//  public static String JDBC_PASSWORD = "camila";
- 
+	 
 	private static String JDBC_BD;
 	private static String JDBC_HOST;
 	private static String JDBC_DRIVER;
@@ -42,16 +35,14 @@ public class Conexao2 {
 
 	public java.sql.Connection getConexao() throws SQLException {
     	
-    	try{
-        	
+    	try{        	
         	 conn = DriverManager.getConnection("jdbc:mysql://"+ this.JDBC_HOST+"/"+ this.JDBC_BD +"?user="+ this.JDBC_USER +"&password="+ this.JDBC_PASSWORD); 
     	}
         catch (SQLException e) { 
         	e.printStackTrace();
-        	//conn = null; 
+        	conn = null; 
         } 
     	
 		return conn;     	
     }
-
 }

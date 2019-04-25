@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PessoaTest (1)" project="Exemplo 15" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="test.PessoaTest" time="0.0">
+    <testcase name="testGetCarlos" classname="test.PessoaTest" time="0.0"/>
+    <testcase name="testGetIdPessoa" classname="test.PessoaTest" time="0.0"/>
+    <testcase name="testGetNome" classname="test.PessoaTest" time="0.0"/>
+    <testcase name="testGetSobreNome" classname="test.PessoaTest" time="0.0"/>
+  </testsuite>
+</testrun>
