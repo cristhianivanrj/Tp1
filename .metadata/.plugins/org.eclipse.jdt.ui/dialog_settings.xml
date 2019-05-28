@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item value="JavaSE-1.7" key="org.eclipse.jdt.ui.last.selected.execution.enviroment"/>
-	<item value="/home/cristhian/LibreriasJava/JUnit-20190103/new" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="/home/cristhian/LibreriasJava" key="org.eclipse.jdt.ui.lastextjar"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item value="2" key="layout"/>
 		<item value="true" key="group_libraries"/>
@@ -31,7 +31,7 @@
 	<section name="javadoc">
 		<item value="public" key="access"/>
 		<item value="false" key="noindex"/>
-		<item value="/home/cristhian/workspacetp1/exemplo 10/javadoc.xml" key="antpath"/>
+		<item value="/home/cristhian/workspacetp1/Exemplo 15/javadoc.xml" key="antpath"/>
 		<item value="false" key="nodeprecatedlist"/>
 		<item value="true" key="use"/>
 		<item value="true" key="author"/>
@@ -45,7 +45,7 @@
 		<item value="true" key="splitindex"/>
 		<item value="true" key="fromStandard"/>
 		<item value="false" key="notree"/>
-		<item value="/home/cristhian/workspacetp1/exemplo 10/doc" key="destdir"/>
+		<item value="/home/cristhian/javadoc" key="destdir"/>
 		<item value="false" key="openinbrowser"/>
 		<section name="projects">
 			<section name="exemplo 10">
@@ -110,7 +110,7 @@
 			</section>
 			<section name="Exemplo 15">
 				<item value="/home/cristhian/workspacetp1/Exemplo 15/javadoc.xml" key="antpath"/>
-				<item value="/home/cristhian/workspacetp1/Exemplo 15/doc" key="destdir"/>
+				<item value="/home/cristhian/javadoc" key="destdir"/>
 				<item value="" key="href"/>
 			</section>
 			<section name="Exemplo 07">

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="UtilidadesLibreriaTest" project="Exemplo 15" tests="3" started="3" failures="0" errors="0" ignored="0">
-  <testsuite name="test.UtilidadesLibreriaTest" time="0.001">
-    <testsuite name="testParametros" time="0.002">
-      <testcase name="testParametros" classname="001,Carlos,Ramirez" time="0.001"/>
-      <testcase name="testParametros" classname="002,Maria,Gomez" time="0.0"/>
-      <testcase name="testParametros" classname="003, Fernanda, Jaimes" time="0.001"/>
-    </testsuite>
-  </testsuite>
-</testrun>

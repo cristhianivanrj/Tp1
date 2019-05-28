@@ -2,6 +2,10 @@ package main;
 
 public class Pessoa 
 {
+	/**
+	 * @author cristhian
+	 * Clase usada para testear creación de objetos
+	 */
 	private int idPessoa;
 	private String nome;
 	private String sobrenome;
@@ -11,6 +15,10 @@ public class Pessoa
 	
 	
 	public Pessoa(int idPessoa, String nome, String sobrenome) {
+		/**
+		 * @author cristhian
+		 * Clase usada para testear creación de objetos
+		 */
 		super();
 		this.idPessoa = idPessoa;
 		this.nome = nome;
@@ -23,6 +31,10 @@ public class Pessoa
 	}
 
 	public void setIdPessoa(int idPessoa){
+		/**
+		 * @author cristhian
+		 * Clase usada para testear creación de objetos
+		 */
 		this.idPessoa = idPessoa;
 	}
 
@@ -106,3 +118,8 @@ public class Pessoa
 	}
 
 }
+
+
+
+
+
