@@ -10,7 +10,9 @@ import java.util.*;
 
 public class PessoaJDBC {
 	
-    private final String SQL_INSERT = "INSERT INTO pessoa(nome, sobrenome) VALUES(?,?)";
+    private final String SQL_INSERT = "INSERT INTO AdminHotel(idQuarto, disponivel,tipo) VALUES(?,?)";
+    
+    //INSERT INTO `AdminHotel`.`Quartos` (`idQuarto`, `disponivel`, `tipo`) VALUES ('16', 'True', 'Casal');
     
     private final String SQL_UPDATE = "UPDATE pessoa SET nome=?, sobrenome=? WHERE id_pessoa=?";
         
@@ -48,8 +50,7 @@ public class PessoaJDBC {
         return rows;
     }
     
-    
-    
+
 
     /**
      * Método que atualiza um registro existente

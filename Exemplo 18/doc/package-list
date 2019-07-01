@@ -1,0 +1,6 @@
+com.mycompany.myapp.dao
+com.mycompany.myapp.dto
+com.mycompany.myapp.example
+com.mycompany.myapp.exceptions
+com.mycompany.myapp.factory
+com.mycompany.myapp.jdbc

@@ -31,7 +31,7 @@
 	<section name="javadoc">
 		<item value="public" key="access"/>
 		<item value="false" key="noindex"/>
-		<item value="/home/cristhian/workspacetp1/Exemplo 15/javadoc.xml" key="antpath"/>
+		<item value="/home/cristhian/workspacetp1/Exemplo 18/javadoc.xml" key="antpath"/>
 		<item value="false" key="nodeprecatedlist"/>
 		<item value="true" key="use"/>
 		<item value="true" key="author"/>
@@ -45,7 +45,7 @@
 		<item value="true" key="splitindex"/>
 		<item value="true" key="fromStandard"/>
 		<item value="false" key="notree"/>
-		<item value="/home/cristhian/javadoc" key="destdir"/>
+		<item value="/home/cristhian/workspacetp1/Exemplo 18/doc" key="destdir"/>
 		<item value="false" key="openinbrowser"/>
 		<section name="projects">
 			<section name="exemplo 10">
@@ -118,9 +118,19 @@
 				<item value="/home/cristhian/workspacetp1/Exemplo 07/doc" key="destdir"/>
 				<item value="" key="href"/>
 			</section>
+			<section name="Exemplo 18">
+				<item value="/home/cristhian/workspacetp1/Exemplo 18/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/Exemplo 18/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
 			<section name="Exemplo 06">
 				<item value="/home/cristhian/workspacetp1/Exemplo 06/javadoc.xml" key="antpath"/>
 				<item value="/home/cristhian/workspacetp1/Exemplo 06/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Exemplo 17">
+				<item value="/home/cristhian/workspacetp1/Exemplo 17/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/Exemplo 17/doc" key="destdir"/>
 				<item value="" key="href"/>
 			</section>
 			<section name="Exemplo 09">
@@ -131,6 +141,16 @@
 			<section name="Exemplo 08">
 				<item value="/home/cristhian/workspacetp1/Exemplo 08/javadoc.xml" key="antpath"/>
 				<item value="/home/cristhian/workspacetp1/Exemplo 08/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="borrar">
+				<item value="/home/cristhian/workspacetp1/borrar/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/borrar/doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="GestaoHotel">
+				<item value="/home/cristhian/workspacetp1/GestaoHotel/javadoc.xml" key="antpath"/>
+				<item value="/home/cristhian/workspacetp1/GestaoHotel/doc" key="destdir"/>
 				<item value="" key="href"/>
 			</section>
 		</section>

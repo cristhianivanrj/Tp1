@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 6 elements to &apos;Exemplo 18/src/com.mycompany.myapp.dao&apos;&#x0A;- Original project: &apos;Exemplo 18&apos;&#x0A;- Destination element: &apos;Exemplo 18/src/com.mycompany.myapp.dao&apos;&#x0A;- Original elements:&#x0A;     DisciplinasDao.java&#x0A;     ProfessorDao.java&#x0A;     DiscLivroDao.java&#x0A;     LivrosDao.java&#x0A;     ProfDiscDao.java&#x0A;     TurmasDao.java&#x0A;- Update references to refactored element" description="Move files" destination="/src&lt;com.mycompany.myapp.dao" element1="DisciplinasDao.java" element2="ProfessorDao.java" element3="DiscLivroDao.java" element4="LivrosDao.java" element5="ProfDiscDao.java" element6="TurmasDao.java" files="6" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1559223590045" units="0" version="1.0"/>
+</session>

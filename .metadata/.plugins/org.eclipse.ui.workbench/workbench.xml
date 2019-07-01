@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="38" version="2.0">
+<workbench progressCount="35" version="2.0">
 <workbenchAdvisor/>
-<window height="776" width="1028" x="2296" y="304">
+<window height="776" maximized="true" width="1028" x="0" y="0">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -19,7 +19,7 @@
 <coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.debug.ui.launch.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.debug.ui.main.toolbar" itemType="typeToolBarContribution" x="106" y="36"/>
+<coolItem id="org.eclipse.debug.ui.main.toolbar" itemType="typeToolBarContribution" x="42" y="36"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="206" y="36"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
@@ -36,25 +36,45 @@
 <part id="1"/>
 <part id="2"/>
 <part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GestaoPessoas.java" partName="GestaoPessoas.java" path="/home/cristhian/workspacetp1/Exemplo 17/src/control/GestaoPessoas.java" title="GestaoPessoas.java" tooltip="Exemplo 17/src/control/GestaoPessoas.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Exemplo 17/src/control/GestaoPessoas.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="306" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Conexao.java" partName="Conexao.java" path="/home/cristhian/workspacetp1/GestaoHotel/src/dados/Conexao.java" title="Conexao.java" tooltip="GestaoHotel/src/dados/Conexao.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GestaoHotel/src/dados/Conexao.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="484" selectionTopPixel="252"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Conexao.java" partName="Conexao.java" path="/home/cristhian/workspacetp1/Exemplo 17/src/dados/Conexao.java" title="Conexao.java" tooltip="Exemplo 17/src/dados/Conexao.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Exemplo 17/src/dados/Conexao.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="214" selectionOffset="698" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Quartos.java" partName="Quartos.java" path="/home/cristhian/workspacetp1/GestaoHotel/src/domain/Quartos.java" title="Quartos.java" tooltip="GestaoHotel/src/domain/Quartos.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GestaoHotel/src/domain/Quartos.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="99" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PessoaJDBC.java" partName="PessoaJDBC.java" path="/home/cristhian/workspacetp1/Exemplo 17/src/dados/PessoaJDBC.java" title="PessoaJDBC.java" tooltip="Exemplo 17/src/dados/PessoaJDBC.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Exemplo 17/src/dados/PessoaJDBC.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1637" selectionTopPixel="279"/>
+<editorState selectionHorizontalPixel="19" selectionLength="0" selectionOffset="1307" selectionTopPixel="418"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Pessoa.java" partName="Pessoa.java" path="/home/cristhian/workspacetp1/Exemplo 17/src/domain/Pessoa.java" title="Pessoa.java" tooltip="Exemplo 17/src/domain/Pessoa.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Exemplo 17/src/domain/Pessoa.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="634" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DaoException.java" partName="DaoException.java" path="/home/cristhian/workspacetp1/Exemplo 18/src/com/mycompany/myapp/exceptions/DaoException.java" title="DaoException.java" tooltip="Exemplo 18/src/com/mycompany/myapp/exceptions/DaoException.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Exemplo 18/src/com/mycompany/myapp/exceptions/DaoException.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4" selectionTopPixel="320"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DisciplinasDaoFactory.java" partName="DisciplinasDaoFactory.java" path="/home/cristhian/workspacetp1/Exemplo 18/src/com/mycompany/myapp/factory/DisciplinasDaoFactory.java" title="DisciplinasDaoFactory.java" tooltip="Exemplo 18/src/com/mycompany/myapp/factory/DisciplinasDaoFactory.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Exemplo 18/src/com/mycompany/myapp/factory/DisciplinasDaoFactory.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="423" selectionTopPixel="24"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AllTests.java" partName="AllTests.java" path="/home/cristhian/workspacetp1/Exemplo 15/src/test/AllTests.java" title="AllTests.java" tooltip="Exemplo 15/src/test/AllTests.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Exemplo 15/src/test/AllTests.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="25" selectionOffset="22" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AllTest2.java" partName="AllTest2.java" path="/home/cristhian/workspacetp1/Exemplo 15/src/test/AllTest2.java" title="AllTest2.java" tooltip="Exemplo 15/src/test/AllTest2.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Exemplo 15/src/test/AllTest2.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UtilArraysTest.java" partName="UtilArraysTest.java" path="/home/cristhian/workspacetp1/Exemplo 15/src/test/UtilArraysTest.java" title="UtilArraysTest.java" tooltip="Exemplo 15/src/test/UtilArraysTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Exemplo 15/src/test/UtilArraysTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="252"/>
 </editor>
 </editors>
 <views>
@@ -98,9 +118,6 @@
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>
-<category IMemento.internal.id="Warnings (77 items)"/>
-</expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="1306" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
@@ -152,7 +169,7 @@
 <viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.cdt.ui.cview.groupincludes="false" org.eclipse.cdt.ui.cview.groupmacros="false" org.eclipse.cdt.ui.editor.CUChildren="true" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
 </view>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -309,7 +326,7 @@
 <view id="org.eclipse.jdt.ui.SourceView" ratio="0.3"/>
 </fastViews>
 </fastViewBar>
-<fastViewBar fastViewLocation="131072" id="org.eclipse.ui.internal.ViewStack@4db728df" orientation="256" selectedTabId="org.eclipse.mylyn.tasks.ui.views.tasks" style="0">
+<fastViewBar fastViewLocation="131072" id="org.eclipse.ui.internal.ViewStack@4db728df" orientation="512" selectedTabId="org.eclipse.mylyn.tasks.ui.views.tasks" style="0">
 <fastViews>
 <view id="org.eclipse.mylyn.tasks.ui.views.tasks" ratio="0.3"/>
 </fastViews>
@@ -341,7 +358,7 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.15355805" ratioLeft="287" ratioRight="1582" relationship="2" relative="left"/>
+<info part="org.eclipse.ui.editorss" ratio="0.22043873" ratioLeft="412" ratioRight="1457" relationship="2" relative="left"/>
 <info folder="true" part="bottom" ratio="0.8256983" ratioLeft="739" ratioRight="156" relationship="4" relative="org.eclipse.ui.editorss">
 <folder appearance="2" expanded="2">
 <page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
@@ -372,7 +389,7 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@4ece21c9" ratio="0.8413408" ratioLeft="753" ratioRight="142" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@47fb038d" ratio="0.93296087" ratioLeft="835" ratioRight="60" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <page content="org.eclipse.jdt.junit.ResultView" label="JUnit"/>
@@ -501,165 +518,60 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 16/src/dados/Conexao2.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 17/src/control/GestaoPessoas.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 17/src/dados/Conexao.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 11/src/entidades/ManejoColecciones.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GestaoHotel/src/dados/Conexao.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GestaoHotel/src/domain/Quartos.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 17/src/dados/PessoaJDBC.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 17/src/dados/Conexao2.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 17/src/dados/PessoaJDBC.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 17/src/domain/Pessoa.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 17/src/dados/Conexao.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 17/src/dados/PessoaJDBC.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 18/src/com/mycompany/myapp/exceptions/DaoException.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 18/src/com/mycompany/myapp/factory/DisciplinasDaoFactory.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 15/src/test/AllTests.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 15/src/test/AllTest2.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Exemplo 15/src/test/UtilArraysTest.java"/>
 </editors>
-<item historyLabel="Conexao.java" index="2">
-<position info="not_deleted" x="759" y="0"/>
+<item historyLabel="ManejoColecciones.java" index="0">
+<position info="not_deleted" x="162" y="8"/>
 </item>
-<item historyLabel="GestaoPessoas.java" index="1">
-<position info="not_deleted" x="264" y="0"/>
+<item historyLabel="Conexao.java" index="1">
+<position info="not_deleted" x="416" y="0"/>
 </item>
-<item historyLabel="PessoaJDBC.java" index="3">
-<position info="not_deleted" x="3895" y="37"/>
+<item historyLabel="Quartos.java" index="2">
+<position info="not_deleted" x="437" y="0"/>
 </item>
-<item historyLabel="GestaoPessoas.java" index="1">
-<position info="not_deleted" x="610" y="46"/>
+<item historyLabel="Conexao.java" index="1">
+<position info="not_deleted" x="416" y="0"/>
 </item>
-<item historyLabel="PessoaJDBC.java" index="3">
-<position info="not_deleted" x="578" y="0"/>
-</item>
-<item historyLabel="GestaoPessoas.java" index="1">
-<position info="not_deleted" x="649" y="0"/>
+<item historyLabel="Quartos.java" index="2">
+<position info="not_deleted" x="657" y="0"/>
 </item>
 <item historyLabel="PessoaJDBC.java" index="3">
-<position info="not_deleted" x="373" y="9"/>
+<position info="not_deleted" x="891" y="1"/>
 </item>
-<item historyLabel="GestaoPessoas.java" index="1">
-<position info="not_deleted" x="610" y="46"/>
+<item historyLabel="Quartos.java" index="2">
+<position info="not_deleted" x="657" y="0"/>
 </item>
-<item historyLabel="GestaoPessoas.java" index="1">
-<position info="not_deleted" x="604" y="0"/>
+<item historyLabel="Conexao.java" index="1">
+<position info="not_deleted" x="484" y="0"/>
 </item>
-<item historyLabel="GestaoPessoas.java" index="1">
-<position info="not_deleted" x="277" y="0"/>
-</item>
-<item historyLabel="PessoaJDBC.java" index="3">
-<position info="not_deleted" x="1011" y="0"/>
-</item>
-<item historyLabel="GestaoPessoas.java" index="1">
-<position info="not_deleted" x="262" y="40"/>
+<item historyLabel="Quartos.java" index="2">
+<position info="not_deleted" x="99" y="0"/>
 </item>
 <item historyLabel="PessoaJDBC.java" index="3">
-<position info="not_deleted" x="968" y="43"/>
+<position info="not_deleted" x="891" y="1"/>
 </item>
-<item historyLabel="Conexao.java" index="2">
-<position info="not_deleted" x="1314" y="1"/>
+<item historyLabel="DaoException.java" index="4">
+<position info="not_deleted" x="4" y="0"/>
 </item>
-<item historyLabel="GestaoPessoas.java" index="1">
-<position info="not_deleted" x="457" y="0"/>
+<item historyLabel="DisciplinasDaoFactory.java" index="5">
+<position info="not_deleted" x="4" y="0"/>
 </item>
-<item historyLabel="Conexao.java" index="2">
-<position info="not_deleted" x="1314" y="1"/>
+<item historyLabel="AllTests.java" index="6">
+<position info="not_deleted" x="22" y="25"/>
 </item>
-<item historyLabel="Conexao2.java" index="0">
-<position/>
-</item>
-<item historyLabel="Conexao2.java" index="4">
+<item historyLabel="AllTest2.java" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Conexao2.java" index="0">
-<position/>
-</item>
-<item historyLabel="Conexao.java" index="2">
-<position info="not_deleted" x="581" y="0"/>
-</item>
-<item historyLabel="Conexao2.java" index="0">
+<item active="true" historyLabel="UtilArraysTest.java" index="8">
 <position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Conexao.java" index="2">
-<position info="not_deleted" x="581" y="0"/>
-</item>
-<item historyLabel="Conexao2.java" index="0">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Conexao.java" index="2">
-<position info="not_deleted" x="581" y="0"/>
-</item>
-<item historyLabel="Conexao2.java" index="0">
-<position info="not_deleted" x="582" y="22"/>
-</item>
-<item historyLabel="Conexao.java" index="2">
-<position info="not_deleted" x="581" y="0"/>
-</item>
-<item historyLabel="Conexao2.java" index="0">
-<position info="not_deleted" x="582" y="24"/>
-</item>
-<item historyLabel="Conexao.java" index="2">
-<position info="not_deleted" x="901" y="0"/>
-</item>
-<item historyLabel="GestaoPessoas.java" index="1">
-<position info="not_deleted" x="396" y="0"/>
-</item>
-<item historyLabel="Conexao2.java" index="0">
-<position info="not_deleted" x="582" y="24"/>
-</item>
-<item historyLabel="GestaoPessoas.java" index="1">
-<position info="not_deleted" x="396" y="0"/>
-</item>
-<item historyLabel="Conexao.java" index="2">
-<position info="not_deleted" x="1573" y="0"/>
-</item>
-<item historyLabel="GestaoPessoas.java" index="1">
-<position info="not_deleted" x="261" y="0"/>
-</item>
-<item historyLabel="PessoaJDBC.java" index="5">
-<position info="not_deleted" x="36" y="0"/>
-</item>
-<item historyLabel="Conexao.java" index="2">
-<position info="not_deleted" x="581" y="0"/>
-</item>
-<item historyLabel="GestaoPessoas.java" index="1">
-<position info="not_deleted" x="261" y="0"/>
-</item>
-<item historyLabel="Pessoa.java" index="6">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Conexao.java" index="7">
-<position info="not_deleted" x="768" y="0"/>
-</item>
-<item historyLabel="Pessoa.java" index="6">
-<position info="not_deleted" x="81" y="4"/>
-</item>
-<item historyLabel="Conexao.java" index="7">
-<position info="not_deleted" x="862" y="0"/>
-</item>
-<item historyLabel="GestaoPessoas.java" index="1">
-<position info="not_deleted" x="306" y="0"/>
-</item>
-<item historyLabel="PessoaJDBC.java" index="8">
-<position info="not_deleted" x="613" y="0"/>
-</item>
-<item historyLabel="Pessoa.java" index="6">
-<position info="not_deleted" x="106" y="0"/>
-</item>
-<item historyLabel="PessoaJDBC.java" index="8">
-<position info="not_deleted" x="532" y="0"/>
-</item>
-<item historyLabel="GestaoPessoas.java" index="1">
-<position info="not_deleted" x="306" y="0"/>
-</item>
-<item historyLabel="PessoaJDBC.java" index="8">
-<position info="not_deleted" x="216" y="386"/>
-</item>
-<item historyLabel="Pessoa.java" index="6">
-<position info="not_deleted" x="106" y="0"/>
-</item>
-<item historyLabel="PessoaJDBC.java" index="8">
-<position info="not_deleted" x="216" y="386"/>
-</item>
-<item historyLabel="Conexao.java" index="7">
-<position info="not_deleted" x="698" y="214"/>
-</item>
-<item active="true" historyLabel="Pessoa.java" index="6">
-<position info="not_deleted" x="106" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -684,50 +596,50 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Pessoa.java" tooltip="Exemplo 17/src/domain/Pessoa.java">
-<persistable path="/Exemplo 17/src/domain/Pessoa.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UtilArraysTest.java" tooltip="Exemplo 15/src/test/UtilArraysTest.java">
+<persistable path="/Exemplo 15/src/test/UtilArraysTest.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AllTest2.java" tooltip="Exemplo 15/src/test/AllTest2.java">
+<persistable path="/Exemplo 15/src/test/AllTest2.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AllTests.java" tooltip="Exemplo 15/src/test/AllTests.java">
+<persistable path="/Exemplo 15/src/test/AllTests.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.browser.editorSupport" name="index.html" tooltip="Exemplo 18/doc/index.html">
+<persistable path="/Exemplo 18/doc/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DisciplinasDaoFactory.java" tooltip="Exemplo 18/src/com/mycompany/myapp/factory/DisciplinasDaoFactory.java">
+<persistable path="/Exemplo 18/src/com/mycompany/myapp/factory/DisciplinasDaoFactory.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DaoException.java" tooltip="Exemplo 18/src/com/mycompany/myapp/exceptions/DaoException.java">
+<persistable path="/Exemplo 18/src/com/mycompany/myapp/exceptions/DaoException.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PessoaJDBC.java" tooltip="Exemplo 17/src/dados/PessoaJDBC.java">
 <persistable path="/Exemplo 17/src/dados/PessoaJDBC.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Conexao2.java" tooltip="Exemplo 16/src/dados/Conexao2.java">
-<persistable path="/Exemplo 16/src/dados/Conexao2.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Quartos.java" tooltip="GestaoHotel/src/domain/Quartos.java">
+<persistable path="/GestaoHotel/src/domain/Quartos.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Conexao2.java" tooltip="Exemplo 17/src/dados/Conexao2.java">
-<persistable path="/Exemplo 17/src/dados/Conexao2.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Conexao.java" tooltip="GestaoHotel/src/dados/Conexao.java">
+<persistable path="/GestaoHotel/src/dados/Conexao.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ManejoColecciones.java" tooltip="Exemplo 11/src/entidades/ManejoColecciones.java">
+<persistable path="/Exemplo 11/src/entidades/ManejoColecciones.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ProfessorDao.java" tooltip="Exemplo 18/src/com/mycompany/myapp/dao/ProfessorDao.java">
+<persistable path="/Exemplo 18/src/com/mycompany/myapp/dao/ProfessorDao.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ProfessorDaoSample.java" tooltip="Exemplo 18/src/com/mycompany/myapp/example/ProfessorDaoSample.java">
+<persistable path="/Exemplo 18/src/com/mycompany/myapp/example/ProfessorDaoSample.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Conexao.java" tooltip="Exemplo 17/src/dados/Conexao.java">
 <persistable path="/Exemplo 17/src/dados/Conexao.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GestaoPessoas.java" tooltip="Exemplo 17/src/control/GestaoPessoas.java">
-<persistable path="/Exemplo 17/src/control/GestaoPessoas.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ResourceManager.java" tooltip="Exemplo 18/src/com/mycompany/myapp/jdbc/ResourceManager.java">
+<persistable path="/Exemplo 18/src/com/mycompany/myapp/jdbc/ResourceManager.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestStack.java" tooltip="Exemplo 00/src/Stack/TestStack.java">
-<persistable path="/Exemplo 00/src/Stack/TestStack.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestHashtable.java" tooltip="Exemplo 00/src/Hashtable/TestHashtable.java">
-<persistable path="/Exemplo 00/src/Hashtable/TestHashtable.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Estudante.java" tooltip="Exemplo 00/src/Hashtable/Estudante.java">
-<persistable path="/Exemplo 00/src/Hashtable/Estudante.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.browser.editorSupport" name="Pessoa.html" tooltip="Exemplo 15/doc/main/Pessoa.html">
-<persistable path="/Exemplo 15/doc/main/Pessoa.html"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Pessoa.java" tooltip="Exemplo 15/src/main/Pessoa.java">
-<persistable path="/Exemplo 15/src/main/Pessoa.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Parametrizado2Test.java" tooltip="Exemplo 15/src/test/Parametrizado2Test.java">
-<persistable path="/Exemplo 15/src/test/Parametrizado2Test.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AllTests.java" tooltip="Exemplo 16/src/test/AllTests.java">
-<persistable path="/Exemplo 16/src/test/AllTests.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TeoriasTest.java" tooltip="Exemplo 16/src/test/TeoriasTest.java">
-<persistable path="/Exemplo 16/src/test/TeoriasTest.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Conexao2Test.java" tooltip="Exemplo 16/src/test/Conexao2Test.java">
-<persistable path="/Exemplo 16/src/test/Conexao2Test.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Pessoa.java" tooltip="Exemplo 17/src/domain/Pessoa.java">
+<persistable path="/Exemplo 17/src/domain/Pessoa.java"/>
 </file>
 </mruList>
 </workbench>

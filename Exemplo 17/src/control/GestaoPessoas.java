@@ -14,15 +14,15 @@ public class GestaoPessoas {
 		
 		PessoaJDBC pessoasJDBC = new PessoaJDBC();
 		//Testear método insert
-		//pessoasJDBC.insert("Camila", "Ramirez");
+		//pessoasJDBC.insert("Carlos", "Tarantino");
 		
         //Testear método update
-       //pessoasJDBC.update(2, "Nome2", "sobrenome2");
+      	//pessoasJDBC.update(3, "Nome3", "sobrenome3");
 		
-      //Testear método delete
+		//Testear método delete
        
 		
-		//bpessoasJDBC.delete(2);
+		//pessoasJDBC.delete(3);
         
         //Testear método select
         //Uso do objeto Pessoa para encapsular a informação

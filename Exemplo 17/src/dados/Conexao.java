@@ -14,6 +14,7 @@ import java.sql.ResultSet;
  * Além disso, assegure-se de que o MySQL esteja configurado para aceitar 
  * conexões TCP / IP externas.
  */
+
 public class Conexao {
 	private static String JDBC_DRIVER = "com.mysql.jdbc.Driver"; //"com.mysql.cj.jdbc.Driver"; 
 	private static String JDBC_URL = "jdbc:mysql://localhost/testConexion?useSSL=false";
@@ -34,6 +35,8 @@ public class Conexao {
                 e.printStackTrace();
             }
         }
+        
+        
         //Se não houver error, solicitar conexão.
         return DriverManager.getConnection(JDBC_URL, JDBC_USER, JDBC_PASS);
     }	
